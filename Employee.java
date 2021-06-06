@@ -2,7 +2,7 @@ package Assignment_2;
 
 import java.util.Scanner;
 
-public class Employee extends BeverageShop {
+public class Employee extends BeverageShop { // inheritance method
 
 	Scanner scan = new Scanner(System.in);
 
